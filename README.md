@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Ahmed 👋
 
-<!--
-**Ahmed-Abdel-karim/Ahmed-Abdel-karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Developer based in Suez, Egypt · 7+ years building SaaS.
 
-Here are some ideas to get you started:
+**Currently:** Available for remote Senior Frontend roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent work:** 3.5 years at PTV Group (via Musala Soft / Avenga) building
+PTV Lines — a B2B SaaS platform for public transport planning used across
+Europe and the US. Designed an in-browser shortest-path routing system
+using MapLibre GL JS, Turf.js, RBush, and Web Workers.
+
+**Tech I use most:** React · TypeScript · Redux · Redux-Observable / RxJS ·
+MapLibre GL JS · Turf.js · Vite · Jest / Vitest / Cypress
+
+**Familiar with:** Next.js (App Router, RSC) · TanStack Query · Zustand ·
+GraphQL (concept) · AWS (S3, CloudFront) · Docker
